@@ -1,0 +1,6 @@
+{
+    "require": {
+        "jaybizzle/crawler-detect": "1.2.117",
+        "foroco/php-browser-detection": "2.7"
+    }
+}
