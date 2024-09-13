@@ -22,7 +22,7 @@ Does detect:
 * OS family
 * OS name
 * OS version
-* Is OS is 64-bit?
+* Is OS 64-bit?
 * Browser vendor
 * Browser name
 * Browser version
