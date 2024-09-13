@@ -54,11 +54,11 @@ echo "Your browser vendor is ".'<script type="text/javascript">'.'document.write
 echo "Your browser name is ".$uainfo['browser_name']."</br>";
 echo "Your browser version is ".$uainfo['browser_version']."</br>";
 echo "Are you just a web crawler? ".($crawler->isCrawler() ? "true" : "false")."</br>";
-echo "Your viewoport width is ".'<script type="text/javascript">'.'document.write(window.innerWidth);'.'</script>'."</br>";
-echo "Your viewoport height is ".'<script type="text/javascript">'.'document.write(window.innerHeight);'.'</script>'."</br>";
-echo "Your screeen width is ".'<script type="text/javascript">'.'document.write(screen.width);'.'</script>'."</br>";
-echo "Your screeen height is ".'<script type="text/javascript">'.'document.write(screen.height);'.'</script>'."</br>";
-echo "Your screeen DPI is ".'<script type="text/javascript">'.'document.write(window.devicePixelRatio);'.'</script>'."</br>";
+echo "Your viewport width is ".'<script type="text/javascript">'.'document.write(window.innerWidth);'.'</script>'."</br>";
+echo "Your viewport height is ".'<script type="text/javascript">'.'document.write(window.innerHeight);'.'</script>'."</br>";
+echo "Your screen width is ".'<script type="text/javascript">'.'document.write(screen.width);'.'</script>'."</br>";
+echo "Your screen height is ".'<script type="text/javascript">'.'document.write(screen.height);'.'</script>'."</br>";
+echo "Your screen DPI is ".'<script type="text/javascript">'.'document.write(window.devicePixelRatio);'.'</script>'."</br>";
 echo "Your hardware concurrency is ".'<script type="text/javascript">'.'document.write(navigator.hardwareConcurrency);'.'</script>'."</br>";
 echo "Your WebGL vendor is "."<script type='text/javascript'>document.write(vendor);</script>"."</br>";
 echo "Your WebGL renderer is "."<script type='text/javascript'>document.write(renderer);</script>"."</br>";
