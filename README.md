@@ -26,11 +26,11 @@ Does detect:
 * Browser vendor
 * Browser name
 * Browser version
-* Viewoport width
-* Viewoport height
-* Screeen width
-* Screeen height
-* Screeen DPI
+* Viewport width
+* Viewport height
+* Screen width
+* Screen height
+* Screen DPI
 * Hardware concurrency
 * WebGL vendor
 * WebGL renderer
