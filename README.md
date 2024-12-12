@@ -44,6 +44,6 @@ Enjoy :P
 
 # If you benefit from my work
 
-You're welcome to share a tiny part of your success with me:
+You're welcome to share a part of your success with me:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rextextaucom)
